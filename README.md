@@ -12,7 +12,9 @@ if you would like to run the project locally on your machine, then you need to d
 
 ## Repository Structure
 
+- `\app`: folder includes streamlit app that runs the project
 - `\notebooks`: folder includes notebook that explores the data and builds the model
+- `\saved-models`: folder includes saved models using pickle that is used in the streamlit app
 
 
 ## Dataset used
