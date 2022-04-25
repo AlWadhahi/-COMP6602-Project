@@ -1,4 +1,7 @@
 # COMP6602-Project
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/alwadhahi/comp6602-project/main/app/app.py)
+
+
 
 This repository will contain all relevant work for the project.
 
