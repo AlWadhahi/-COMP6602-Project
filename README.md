@@ -4,6 +4,12 @@
 
 
 This repository will contain all relevant work for the project.
+The project was developed as part of COMP6602 Class (Machine Learning I)
+
+**Student:** Firas Al Wadhahi
+
+**Instructor:** Dr. Rachid Hedjam
+
 
 ## Installing Packages
 if you would like to run the project locally on your machine, then you need to download the dataset first then follow these steps: 
